@@ -32,6 +32,6 @@
  on a controller
 
     ~~~
-        var formStep = new NewUploadView.formWizardStep2();
-        AppManager.wizFormRegion.show(formStep);
+    var formStep = new NewUploadView.formWizardStep2();
+    AppManager.wizFormRegion.show(formStep);
     ~~~
